@@ -1,0 +1,23 @@
+# Database
+*.duckdb
+*.duckdb.wal
+
+# Generated data (run scripts/generate_data.py to create)
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
