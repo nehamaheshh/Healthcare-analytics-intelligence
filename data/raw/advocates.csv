@@ -1,0 +1,31 @@
+id,name,specialty,team,capacity,hire_date
+1,Anthony Everett,care_coord,escalations,20,2024-08-18
+2,Austin Vasquez,billing,intake,25,2025-03-19
+3,Amy Hernandez,claims,intake,20,2025-08-20
+4,Angela Wright,general,escalations,20,2025-07-29
+5,Lisa Gibbs,general,intake,15,2025-07-21
+6,Jamie Kerr,claims,intake,15,2024-02-21
+7,Wanda Torres,care_coord,intake,20,2024-06-11
+8,Tyler Garcia,claims,specialty,30,2025-10-27
+9,Deborah Miller,care_coord,escalations,20,2024-01-24
+10,Benjamin Smith,prior_auth,intake,25,2024-03-14
+11,Julie Johnson,care_coord,escalations,20,2025-02-04
+12,Michele Gibson,care_coord,specialty,15,2024-05-28
+13,Dennis Moody,billing,intake,20,2026-02-07
+14,Taylor Coleman,care_coord,intake,20,2025-09-09
+15,Chase Baker,general,resolution,15,2025-06-30
+16,Christopher Parker,claims,resolution,25,2023-10-14
+17,Jessica Harrison,care_coord,intake,20,2025-08-08
+18,Terri Mason,prior_auth,escalations,25,2024-06-22
+19,Kyle Preston,claims,intake,30,2025-04-13
+20,Allison Perez,general,specialty,20,2024-07-20
+21,Laura Sampson,billing,escalations,25,2026-01-18
+22,Laura Hines,billing,escalations,25,2026-01-15
+23,Matthew Moon,care_coord,specialty,20,2023-12-05
+24,Jessica Olsen DVM,general,escalations,25,2023-12-14
+25,Gary Santiago,prior_auth,specialty,20,2025-03-07
+26,Michael Roberts,general,specialty,20,2023-11-12
+27,Krista Gibson,prior_auth,escalations,20,2024-11-19
+28,Brian Barton,billing,specialty,15,2024-07-08
+29,April Booth,billing,specialty,25,2025-05-15
+30,Cody Cox,general,resolution,15,2025-02-22
